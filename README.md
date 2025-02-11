@@ -1,2 +1,2 @@
 # NEWSPAPER-ARTICLE
-Host Link: https://github.com/ShreyaTiwari18/NEWSPAPER-ARTICLE.git
+Host Link: https://shreya18-news.netlify.app/
